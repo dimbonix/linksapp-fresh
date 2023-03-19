@@ -1,23 +1,22 @@
 {
-  "$schema": "./profile.schema.json",
-  "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/1200px-Cat_November_2010-1a.jpg",
-  "username": "John Smith",
+  "$schema": "https://raw.githubusercontent.com/commune-org/linksapp-fresh/main/profile.schema.json",
+  "avatar": "https://pbs.twimg.com/profile_images/1637125877136777216/DkDuUFV4_400x400.jpg",
+  "username": "dimbonix",
+  "bio": "Full-stack web developer, open source contributor, teacher and mentor",
   "links": [
-    { "url": "https://example.com", "title": "Photo book" },
-    { "url": "https://example.com", "title": "Website" },
-    { "url": "https://example.com", "title": "Discord" }
+    {
+      "url": "https://twitter.com/dimbonix",
+      "title": "https://twitter.com/dimbonix"
+    }
   ],
-  "bio": "Software Developer / Photographer",
-  "location": "Vienna, Austria",
   "socialAccounts": {
-    "github": "/github/harshmangalam",
-    "instagram": "https://instagram.com/",
-    "twitter": "https://twitter.com/"
+    "github": "https://github.com/dimbonix",
+    "linkedin": "https://linkedin.com/in/dmytro-bondarenko-373056b1",
+    "twitter": "https://twitter.com/dimbonix"
   },
+  "location": "Prague",
   "banner": {
-    "title": "Photo book release!",
-    "text": "You can now order my newly released photobook."
-  },
-  "rss": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-  "readme": "https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md"
+    "title": "Let's make better world with code!",
+    "text": "Let's code"
+  }
 }
