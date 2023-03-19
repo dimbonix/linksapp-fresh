@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/commune-org/linksapp-fresh/main/profile.schema.json",
-  "avatar": "https://pbs.twimg.com/profile_images/1637125877136777216/DkDuUFV4_400x400.jpg",
+  "avatar": "https://avatars.githubusercontent.com/u/10785563?v=4",
   "username": "dimbonix",
   "bio": "Full-stack web developer, open source contributor, teacher and mentor",
   "links": [
@@ -16,7 +16,7 @@
   },
   "location": "Prague",
   "banner": {
-    "title": "Let's make better world with code!",
-    "text": "Let's code"
+    "title": "Make something great",
+    "text": "Let's make better world with code!"
   }
 }
